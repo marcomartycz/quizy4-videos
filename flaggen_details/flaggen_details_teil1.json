@@ -1,0 +1,15 @@
+{
+ "thema": "Flaggen-Details Teil 1",
+ "teil": 1,
+ "haken": "Nur 3 % schaffen 3/3!",
+ "chip": "FLAGGE",
+ "schatten": false,
+ "farben": {"oben": [30, 60, 140], "unten": [8, 18, 50], "akzent": [255, 214, 0], "deko": "flaggen"},
+ "outro_titel": "Alles gewusst?",
+ "outro_banner": ["Jetzt abonnieren!", "Teil 2 kommt morgen – Glocke an!", "1f514"],
+ "fragen": [
+  {"frage": "Welche Flagge ist NICHT rechteckig?", "antworten": ["USA", "Nepal", "Japan"], "richtig": 1, "bild": "nepal", "bild_aufl": "nepal", "groesse": 600, "info": "Die einzige Landesflagge, die nicht rechteckig ist!"},
+  {"frage": "Wie viele Sterne hat Chinas Flagge?", "antworten": ["1 Stern", "4 Sterne", "5 Sterne"], "richtig": 2, "bild": "china_frage", "bild_aufl": "china", "groesse": 640, "info": "1 großer und 4 kleine Sterne"},
+  {"frage": "Welche Flagge hat zwölf Sterne?", "antworten": ["EU", "Brasilien", "Australien"], "richtig": 0, "bild": "sterne12", "bild_aufl": "eu", "groesse": 600, "info": "Die 12 steht für Einheit – nicht für 12 Länder!"}
+ ]
+}
