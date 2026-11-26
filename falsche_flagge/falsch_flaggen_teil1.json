@@ -1,0 +1,169 @@
+{
+ "thema": "Finde die falsch platzierte Flagge – Teil 1",
+ "teil": 1,
+ "haken": "Nur 3 % schaffen 3/3!",
+ "farben": {
+  "oben": [
+   30,
+   60,
+   140
+  ],
+  "unten": [
+   8,
+   18,
+   50
+  ]
+ },
+ "outro_titel": "Alle 3 gefunden?",
+ "outro_banner": [
+  "Jetzt abonnieren!",
+  "Teil 2 kommt morgen – Glocke an!",
+  "1f514"
+ ],
+ "runden": [
+  {
+   "frage": "Welche Flagge sitzt auf dem falschen Land?",
+   "bbox": [
+    -10.5,
+    35.5,
+    19.5,
+    55.5
+   ],
+   "pins": [
+    {
+     "flagge": "spanien",
+     "land": "Spain",
+     "lonlat": [
+      -3.6,
+      40.0
+     ]
+    },
+    {
+     "flagge": "italien",
+     "land": "France",
+     "lonlat": [
+      2.4,
+      46.6
+     ]
+    },
+    {
+     "flagge": "deutschland",
+     "land": "Germany",
+     "lonlat": [
+      10.2,
+      51.0
+     ]
+    }
+   ],
+   "antworten": [
+    "Spanien",
+    "Italien",
+    "Deutschland"
+   ],
+   "richtig": 1,
+   "heimat": {
+    "land": "Italy",
+    "lonlat": [
+     12.9,
+     42.6
+    ]
+   }
+  },
+  {
+   "frage": "Welche Flagge ist hier falsch platziert?",
+   "bbox": [
+    3.0,
+    53.5,
+    32.0,
+    70.5
+   ],
+   "pins": [
+    {
+     "flagge": "schweden",
+     "land": "Sweden",
+     "lonlat": [
+      17.8,
+      64.4
+     ]
+    },
+    {
+     "flagge": "norwegen",
+     "land": "Norway",
+     "lonlat": [
+      7.6,
+      60.6
+     ]
+    },
+    {
+     "flagge": "finnland",
+     "land": "Denmark",
+     "lonlat": [
+      9.2,
+      56.1
+     ]
+    }
+   ],
+   "antworten": [
+    "Schweden",
+    "Norwegen",
+    "Finnland"
+   ],
+   "richtig": 2,
+   "heimat": {
+    "land": "Finland",
+    "lonlat": [
+     27.8,
+     63.2
+    ]
+   }
+  },
+  {
+   "frage": "Welche Flagge sitzt auf dem falschen Land?",
+   "bbox": [
+    -12.5,
+    35.0,
+    26.0,
+    50.0
+   ],
+   "pins": [
+    {
+     "flagge": "portugal",
+     "land": "Portugal",
+     "lonlat": [
+      -8.0,
+      39.6
+     ]
+    },
+    {
+     "flagge": "griechenland",
+     "land": "Greece",
+     "lonlat": [
+      22.0,
+      39.6
+     ]
+    },
+    {
+     "flagge": "oesterreich",
+     "land": "Hungary",
+     "lonlat": [
+      19.3,
+      47.1
+     ]
+    }
+   ],
+   "antworten": [
+    "Portugal",
+    "Griechenland",
+    "Österreich"
+   ],
+   "richtig": 2,
+   "heimat": {
+    "land": "Austria",
+    "lonlat": [
+     14.3,
+     47.5
+    ]
+   }
+  }
+ ]
+}
